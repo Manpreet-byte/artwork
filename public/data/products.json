@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-1155",
+    "slug": "divine-tunes-11",
+    "title": "Divine Tunes-11",
+    "description": "A warm, geometric acrylic painting by Pradip Sarkar.",
+    "images": [
+      "https://zigguratss.com/assets/upload/art-1155.jpg",
+      "https://zigguratss.com/assets/upload/art-1155-alt.jpg",
+      "https://images.unsplash.com/photo-1561214115-f2f134cc4912?w=800&q=80"
+    ],
+    "price": 1200,
+    "currency": "USD",
+    "sku": "ART-1155",
+    "availability": "in_stock",
+    "variants": [
+      { "id": "v1", "label": "Original", "price": 1200 },
+      { "id": "v2", "label": "Print", "price": 150 }
+    ],
+    "specs": {
+      "width_in": 32,
+      "height_in": 30,
+      "medium": "Acrylic on Canvas",
+      "year": 2018
+    },
+    "meta": {
+      "title": "Divine Tunes-11 — Pradip Sarkar",
+      "description": "Divine Tunes-11 by Pradip Sarkar — geometric acrylic painting.",
+      "ogImage": "https://zigguratss.com/assets/upload/art-1155.jpg"
+    }
+  }
+]
